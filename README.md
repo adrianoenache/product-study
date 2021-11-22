@@ -1,2 +1,2 @@
-# product-study
-This is for study of product cards
+# Product study
+Page created for study of product cards for e-commerce.
